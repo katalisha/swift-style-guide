@@ -81,6 +81,14 @@ class Guideline {
 }
 ```
 
+Local variables should use snake case
+
+```swift
+  func updateValueLabel(value: Double) {
+   let number_formatter = NSNumberFormatter()
+  }
+```
+
 ### Enumerations
 
 Use UpperCamelCase for enumeration values:
