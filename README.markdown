@@ -28,6 +28,7 @@ Writing Objective-C? Check out our [Objective-C Style Guide](https://github.com/
 * [Control Flow](#control-flow)
 * [Semicolons](#semicolons)
 * [Language](#language)
+* [Commit messages](#commit-messages)
 * [Copyright Statement](#copyright-statement)
 * [Smiley Face](#smiley-face)
 * [Credits](#credits)
@@ -552,6 +553,14 @@ let color = "red"
 ```swift
 let colour = "red"
 ```
+
+## Commit messages
+Preface each commit message with one of the following categories. This allows filtering and searching of the commit logs.
+* [WIP] work in progess
+* [FEATURE #x] where #x is the mingle card number
+* [BUILD]
+* [DEFECT #x] where #x is the mingle card number
+* [TEST]
 
 ## Copyright Statement
 
